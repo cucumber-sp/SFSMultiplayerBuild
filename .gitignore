@@ -1,0 +1,12 @@
+
+.idea/
+
+*.user
+
+SFSMultiplayerBuild.Mod/obj/
+
+SFSMultiplayerBuild.Mod/GameAssemblies
+
+SFSMultiplayerBuild.Server/obj/
+
+SFSMultiplayerBuild.Types/obj/
