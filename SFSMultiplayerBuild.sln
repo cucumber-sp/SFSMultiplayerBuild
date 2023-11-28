@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFSMultiplayerBuild.Types", "SFSMultiplayerBuild.Types\SFSMultiplayerBuild.Types.csproj", "{24D2384E-74BE-4252-8438-EFFE099CF555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFSMultiplayerBuild.Mod", "SFSMultiplayerBuild.Mod\SFSMultiplayerBuild.Mod.csproj", "{FB8F7F95-B148-4F11-90E2-92F666E330F9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SFSMultiplayerBuild.Server", "SFSMultiplayerBuild.Server\SFSMultiplayerBuild.Server.csproj", "{5B359590-E057-40A0-B0AA-F1C066C16A2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24D2384E-74BE-4252-8438-EFFE099CF555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24D2384E-74BE-4252-8438-EFFE099CF555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24D2384E-74BE-4252-8438-EFFE099CF555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24D2384E-74BE-4252-8438-EFFE099CF555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB8F7F95-B148-4F11-90E2-92F666E330F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB8F7F95-B148-4F11-90E2-92F666E330F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB8F7F95-B148-4F11-90E2-92F666E330F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB8F7F95-B148-4F11-90E2-92F666E330F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B359590-E057-40A0-B0AA-F1C066C16A2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B359590-E057-40A0-B0AA-F1C066C16A2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B359590-E057-40A0-B0AA-F1C066C16A2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B359590-E057-40A0-B0AA-F1C066C16A2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
